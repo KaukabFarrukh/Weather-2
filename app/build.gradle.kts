@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "kamal.aishwarya.weather"
+    namespace = "kaukab.farrukh.weather"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "kamal.aishwarya.weather"
+        applicationId = "kaukab.farrukh.weather"
         minSdk = 26
         //noinspection EditedTargetSdkVersion
         targetSdk = 34
